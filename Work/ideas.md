@@ -1,5 +1,5 @@
 ## Possible future projects
-   * vanilla pricer service?
-   * inflation pricer service?
-   * greek calc module
+   * vanilla pricer service? :octocat:
+   * inflation pricer service? :camel:
+   * greek calc module :metal:
   
