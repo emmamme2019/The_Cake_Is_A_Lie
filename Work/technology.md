@@ -8,7 +8,8 @@
       > add more logging to provide enough info without going through debugging
       > add client accessible information on UI 
       > add documents (DFAQ & IDOC)
-            > add detailed example to explain it clearly (e.g. for stub rate) so that client doesn't have more questions.
+            > add detailed example to explain it clearly (e.g. for stub rate) so that client doesn't
+            have more questions.
       
 ### how to reduce KTLO
     #### Types of KTLO's
