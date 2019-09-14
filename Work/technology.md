@@ -1,6 +1,7 @@
 ## what we could offer?
       > unit test framework
-      > docker?
+      > docker? can we use docker?
+      > bpass/rpass/cloud computing?
 
 ### unit test framework 
 
