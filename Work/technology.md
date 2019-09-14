@@ -1,5 +1,6 @@
 ## what we could offer?
       > unit test framework
+      > cmake
       > docker? can we use docker?
       > bpass/rpass/cloud computing?
 
